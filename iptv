@@ -80,9 +80,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="NASIONAL", MOJI 2
 http://103.179.182.117:6768/hls/50/50.m3u8
 
-
-
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png", RTV 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
