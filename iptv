@@ -69,7 +69,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="NASIONAL",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://stream.urfan.id/transtv
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/tq4taTY.png", tvOne 
@@ -80,8 +82,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://dens.tv/
+https://stream.urfan.id/mdtv
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ce0PQeFODBCLQQhNy11k8FuVHZrrmm8Ehw&s" group-title="NASIONAL", moji 
 #EXTVLCOPT:http-referer=https://www.dens.tv/
